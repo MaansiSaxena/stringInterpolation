@@ -1,0 +1,13 @@
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.exe
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.deps.json
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.json
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.runtimeconfig.dev.json
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\bin\Debug\netcoreapp3.1\StringInterpolation.pdb
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.AssemblyInfo.cs
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.dll
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.pdb
+C:\Users\Mansi.saxena\source\repos\StringInterpolation\StringInterpolation\obj\Debug\netcoreapp3.1\StringInterpolation.genruntimeconfig.cache
